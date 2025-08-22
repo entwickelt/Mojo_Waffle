@@ -1,0 +1,16 @@
+[
+  {
+    "listing": "/blog/index.html",
+    "items": []
+  },
+  {
+    "listing": "/stories/index.html",
+    "items": [
+      "/stories/Pumpkin_Flowers.html"
+    ]
+  },
+  {
+    "listing": "/projects/index.html",
+    "items": []
+  }
+]
