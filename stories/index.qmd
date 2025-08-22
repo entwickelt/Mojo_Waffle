@@ -1,0 +1,7 @@
+---
+title: "Stories"
+listing:
+  contents: .
+  sort: "date desc"
+  type: grid
+---
