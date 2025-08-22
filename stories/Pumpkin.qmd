@@ -1,7 +1,7 @@
 ---
 title: "Pumpkin"
 date: 2025-08-22
-image: images/pumpkin.jpg
+image: imaes/pumpkin.jpg
 ---
 
 
