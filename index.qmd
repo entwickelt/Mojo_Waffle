@@ -1,0 +1,5 @@
+---
+title: "Welcome"
+---
+
+Hi! This site is built with Quarto and published from a private GitHub repo. 
