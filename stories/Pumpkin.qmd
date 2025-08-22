@@ -1,4 +1,9 @@
-**Pumpkin**
+---
+title: "Pumpkin"
+date: 2025-08-22
+image: images/pumpkin.jpg
+---
+
 
 Anuradha had grown up in a village where people could tell the time of day by the tilt of a coconut tree’s shadow. She knew when the breeze would turn warm, which flowers bees preferred, and which vegetables grew sulky if watered at the wrong hour.
 
